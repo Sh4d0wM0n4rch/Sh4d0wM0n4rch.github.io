@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminal</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Terminal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing the site</title>
+      <link>//localhost:1313/posts/testing-the-site/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/testing-the-site/</guid>
+      <description>&lt;h1 id=&#34;this-is-a-header&#34;&gt;This is a header&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;testing the site honestly&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;another-one&#34;&gt;Another one&lt;/h2&gt;&#xA;&lt;h3 id=&#34;and-another&#34;&gt;AND ANOTHER&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;below is an image&lt;/li&gt;&#xA;&lt;li&gt;!&lt;img src=&#34;//localhost:1313/images/Pasted%20image%2020250311174039.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
