@@ -116,6 +116,7 @@ We were given admin credentials, we have full control over our system. Now time 
 	- **C:\Users\haris\Desktop**
 - Root flag is stored at
 	- **C:\Users\Administrator\Desktop**
+
 Submit those flags and you have then PWND this machine!
 
 # Summary of the Machine
