@@ -5,6 +5,10 @@ languageCode = "en-us"
 theme = "terminal"
 pagination.pagerSize = 5
 
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
 [params]
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
@@ -20,7 +24,7 @@ pagination.pagerSize = 5
   showLanguageSelector = false
 
   # set theme to full screen width
-  fullWidthTheme = false
+  fullWidthTheme = true
 
   # center theme with default width
   centerTheme = false
@@ -73,10 +77,10 @@ pagination.pagerSize = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "Ashb0rn-Blog"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
+      subtitle = "A CyberSecurity blog"
       owner = ""
       keywords = ""
       copyright = ""
